@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Neo-Tokyo Chronicles",
+    "path": "assets/cyberpunk.png"
+  },
+  {
+    "name": "Ethereal Realms",
+    "path": "assets/fantasy.png"
+  },
+  {
+    "name": "Star Circuit Velocity",
+    "path": "assets/racer.png"
+  }
+]
