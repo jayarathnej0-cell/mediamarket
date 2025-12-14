@@ -1,14 +1,78 @@
 [
   {
-    "name": "Neo-Tokyo Chronicles",
-    "path": "assets/cyberpunk.png"
+    "name": "AI Shoujo",
+    "path": "assets/AI_Shoujo.jpg"
   },
   {
-    "name": "Ethereal Realms",
-    "path": "assets/fantasy.png"
+    "name": "Assassin's Creed: Odyssey",
+    "path": "assets/Odyssey.jpg"
   },
   {
-    "name": "Star Circuit Velocity",
-    "path": "assets/racer.png"
+    "name": "Assassin's Creed: Syndicate",
+    "path": "assets/Syndicate.jpg"
+  },
+  {
+    "name": "Assassin's Creed II",
+    "path": "assets/default_cover.png"
+  },
+  {
+    "name": "Assassin's Creed IV: Black Flag",
+    "path": "assets/default_cover.png"
+  },
+  {
+    "name": "Assassin's Creed Rogue",
+    "path": "assets/default_cover.png"
+  },
+  {
+    "name": "Battlefield 1",
+    "path": "assets/default_cover.png"
+  },
+  {
+    "name": "Battlefield 4",
+    "path": "assets/default_cover.png"
+  },
+  {
+    "name": "Call of Duty: Advanced Warfare",
+    "path": "assets/default_cover.png"
+  },
+  {
+    "name": "Call of Duty: Ghosts",
+    "path": "assets/default_cover.png"
+  },
+  {
+    "name": "Days Gone",
+    "path": "assets/default_cover.png"
+  },
+  {
+    "name": "Dreams of Desire: Definitive Edition",
+    "path": "assets/default_cover.png"
+  },
+  {
+    "name": "Far Cry 4",
+    "path": "assets/default_cover.png"
+  },
+  {
+    "name": "Grand Theft Auto V",
+    "path": "assets/default_cover.png"
+  },
+  {
+    "name": "House Party",
+    "path": "assets/default_cover.png"
+  },
+  {
+    "name": "Lust Theory: Season 1",
+    "path": "assets/default_cover.png"
+  },
+  {
+    "name": "Pleasure Party",
+    "path": "assets/default_cover.png"
+  },
+  {
+    "name": "Red Dead Redemption",
+    "path": "assets/default_cover.png"
+  },
+  {
+    "name": "Wo Long: Fallen Dynasty",
+    "path": "assets/default_cover.png"
   }
 ]
